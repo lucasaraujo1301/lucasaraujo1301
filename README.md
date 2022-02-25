@@ -9,7 +9,7 @@ My name is Lucas Araujo, I'm full stack developer.
 - :mortar_board: I have a degree in Bachelor of Science and Technology from UFRN.
 - :mag_right: I'm trying to focus myself in Python to improve my skills.
 
-### The most Tech I use in this days
+### The most Tech I use today
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
