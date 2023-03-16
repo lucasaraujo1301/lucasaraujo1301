@@ -1,5 +1,5 @@
 # LUCAS ARAUJO DE MEDEIROS 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ara%C3%BAjo-de-medeiros-91a815192/)](https://www.linkedin.com/in/lucas-ara%C3%BAjo-de-medeiros-91a815192/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ara%C3%BAjo-de-medeiros-91a815192/)](https://www.linkedin.com/in/lucasaraujomedeiros/)
 
 ### Hi! Welcome to my Profile
 
