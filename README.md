@@ -3,7 +3,7 @@
 
 ### Hi! Welcome to my Profile
 
-My name is Lucas Araujo, I'm a Python Developer.
+My name is Lucas Araujo, I'm a Python Developer, and I'm always trying to learn more and more about this tech.
 
 - :computer: I'm a lover technology
 - :mortar_board: I have a degree in Bachelor of Science and Technology from UFRN.
